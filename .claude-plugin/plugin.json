@@ -1,0 +1,9 @@
+{
+  "name": "job-apply",
+  "version": "0.1.0",
+  "description": "Assisted job application automation: parses resume, matches jobs, fills application forms in your own logged-in Chrome session using Playwright. Never auto-logs-in, never auto-signs-up, never handles your passwords.",
+  "author": "Dipesh",
+  "skills": [
+    "./skills/job-apply"
+  ]
+}

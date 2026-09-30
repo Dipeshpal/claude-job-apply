@@ -1,0 +1,11 @@
+[
+  { "name": "Naukri", "url": "https://www.naukri.com", "region": "India" },
+  { "name": "LinkedIn Jobs", "url": "https://www.linkedin.com/jobs", "region": "Global" },
+  { "name": "Indeed", "url": "https://www.indeed.com", "region": "Global" },
+  { "name": "Glassdoor", "url": "https://www.glassdoor.com", "region": "Global" },
+  { "name": "Instahyre", "url": "https://www.instahyre.com", "region": "India" },
+  { "name": "Foundit (Monster India)", "url": "https://www.foundit.in", "region": "India" },
+  { "name": "AngelList/Wellfound", "url": "https://wellfound.com", "region": "Global (startups)" },
+  { "name": "Remotive", "url": "https://remotive.com", "region": "Global (remote)" },
+  { "name": "WeWorkRemotely", "url": "https://weworkremotely.com", "region": "Global (remote)" }
+]

@@ -1,0 +1,18 @@
+{
+  "name": "claude-job-apply",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Assisted job-application plugin for Claude Code (Playwright + resume matching)",
+  "type": "module",
+  "scripts": {
+    "postinstall": "playwright install chromium",
+    "setup": "node skills/job-apply/scripts/setup.js",
+    "profiles": "node skills/job-apply/scripts/detect-chrome-profiles.js"
+  },
+  "dependencies": {
+    "playwright": "^1.48.0",
+    "xlsx": "^0.18.5",
+    "pdf-parse": "^1.1.1",
+    "mammoth": "^1.8.0"
+  }
+}
